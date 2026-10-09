@@ -5,12 +5,12 @@ My notes and labs from Cisco courses at IT Step.
 ## 📚 Subjects
 
 ### 1. Network Fundamentals
-Theory notes: OSI, TCP/IP, IP addressing, Packet Tracer basics.
+Theory and practice: OSI, TCP/IP, IP addressing, Packet Tracer basics.
 📁 [Go to notes](./01-network-fundamentals/)
 
 ### 2. Switching, Routing, and Wireless Essentials (SRWE)
-Practical labs on switching, routing, and wireless.
-📁 [Go to labs](./02-switching-routing-wireless/)
+Theory and practice: VLANs, STP, Layer 2 Security, routing, wireless.
+📁 [Go to notes and labs](./02-switching-routing-wireless/)
 
 ## 📈 Progress
 
